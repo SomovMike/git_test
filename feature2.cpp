@@ -3,5 +3,6 @@
 //
 bool feature2()
 {
+    int b = 410;
     return 0;
 }
