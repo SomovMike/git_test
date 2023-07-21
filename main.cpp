@@ -4,7 +4,8 @@
 int main()
 {
     int x = 10;
-    int y = 20;
+    int y = 200;
+    int z = 300
 
     return 0;
 }
