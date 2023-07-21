@@ -3,6 +3,7 @@
 //
 int main()
 {
+    int h = 222;
     int x = 10;
     int y = 20;
 
